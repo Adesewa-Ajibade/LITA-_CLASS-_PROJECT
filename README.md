@@ -2,6 +2,15 @@
 ---
 
 ### PROJECT TITTLE : E-COMMERCE SALES ANALYSIS
+----
+ [PROJECT OVERVIEW] 
+ [DATA SOURCES]
+ [TOOLS USED]
+ [Data Cleaning  and Preparation]
+ [Exploratory  Data Analysis]
+ [DATA ANALYSIS ]
+ [DATA VISUALIZATION ]
+ 
 ---
 
 ### PROJECT OVERVIEW
@@ -49,7 +58,42 @@ Before diving into the analysis, I took time to explore the dataset and get a fe
 
 -  Which products contribute the most to total revenue?
       I examined product sales to determine which products were driving the majority of the revenue, focusing on those that consistently performed well.
+### DATA ANALYSIS 
+Once the data was cleaned and ready, I turned my attention to creating a pivot table to dig deeper into the numbers. This tool allowed me to summarize and analyze the data effectively. Here’s what I did:
 
-### DATA VISUALIZATION   
+Regional Revenue Insights:
+I used the pivot table to identify the top 5 regions generating the most revenue. This helped me see where the strongest sales were happening and which areas were thriving.
 
+
+![TOP 5](https://github.com/user-attachments/assets/168fd299-36c6-49c1-948c-68f04f37c59e)
+
+
+
+Spotting Underperformers:
+At the same time, I also looked at the bottom 5 regions by revenue. This gave me a clearer picture of where improvements could be made and which regions might need more attention.
+
+
+![BOTTOM 5](https://github.com/user-attachments/assets/e632fc55-4559-4c23-b45e-fa03a6922458)
+
+Total Revenue Calculation:
+The pivot table made it easy to calculate the total revenue from all products sold, providing a comprehensive view of overall sales performance.
+
+
+![TOTAL REVENUE](https://github.com/user-attachments/assets/ac4648ed-b8f7-4415-868c-3fa84cfbce07)
+
+Using the pivot table not only simplified the analysis but also highlighted important insights that could guide future business strategies.
+
+
+### DATA VISUALIZATION 
+
+To bring my findings to life, I turned to visualizations that make the data more engaging and easier to understand. Here’s how I represented the insights:
+
+Bar Charts for Regional Performance:
+I created bar charts to showcase the top 5 and bottom 5 regions based on revenue. These visuals allowed me to easily compare each region's performance, highlighting where the strongest sales were happening and where there was room for growth.
+
+![Screenshot (33)](https://github.com/user-attachments/assets/f6e020b8-1904-46b8-b285-1d4982df6aab)
+
+Pie Chart for Total Revenue:
+I also designed a pie chart to illustrate the total revenue generated from all products sold. This chart provided a clear overview of how different products contributed to the overall sales, making it simple to see which items were driving revenue.
+![Screenshot (34)](https://github.com/user-attachments/assets/711e8f43-6dbd-4fbd-b59e-569224c36443)
 
