@@ -34,4 +34,6 @@ This is where we include some basic line of codes or queries or even some of dax
 
 ``` SQL
 select * from table1
-where condition = true     
+where condition = true
+```
+### DATA VISUALIZATION   
