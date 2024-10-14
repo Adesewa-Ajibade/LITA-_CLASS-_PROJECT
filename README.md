@@ -37,3 +37,5 @@ select * from table1
 where condition = true
 ```
 ### DATA VISUALIZATION   
+
+https://github.com/Adesewa-Ajibade/LITA-_CLASS-_PROJECT/blob/main/Screenshot%20(20).png
