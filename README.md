@@ -3,13 +3,7 @@
 
 ### PROJECT TITTLE : E-COMMERCE SALES ANALYSIS
 ----
- [PROJECT OVERVIEW] 
- [DATA SOURCES]
- [TOOLS USED]
- [Data Cleaning  and Preparation]
- [Exploratory  Data Analysis]
- [DATA ANALYSIS ]
- [DATA VISUALIZATION ]
+
  
 ---
 
