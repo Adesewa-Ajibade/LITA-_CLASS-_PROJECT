@@ -104,5 +104,5 @@ The pivot table revealed some eye-opening findings, showing me which regions wer
 
 The visualizations, like the bar charts and pie chart, made these insights even clearer. The bar charts provided a straightforward way to compare regional performance, while the pie chart gave a nice snapshot of how total revenue was distributed among different products.
 
-n summary, this analysis has highlighted not only the strengths of top-performing regions and products but also the opportunities for growth in underperforming areas. With these insights in hand, there’s a clear path forward to refine strategies that can enhance revenue and drive better sales outcomes.
+In summary, this analysis has highlighted not only the strengths of top-performing regions and products but also the opportunities for growth in underperforming areas. With these insights in hand, there’s a clear path forward to refine strategies that can enhance revenue and drive better sales outcomes.
 
