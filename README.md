@@ -38,7 +38,7 @@ There were a few inconsistencies like duplicate records and formatting issues, s
 Standardizing Formats:
 I made sure all the data was in a consistent format, especially for things like dates, revenue numbers, and product categories, so it would be easier to analyze later on.
 
-With this cleaning process, I ensured the data was in good shape and ready for deeper analysis.
+
 ----
 
 ### Exploratory  Data Analysis 
